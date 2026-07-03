@@ -10,8 +10,8 @@ A simple and responsive Movie Search App that allows users to search for movies 
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript (ES6)
+- CSS
+- JavaScript
 - Movie API (OMDb API)
 
 ## Getting Started
